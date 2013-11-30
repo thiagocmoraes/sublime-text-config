@@ -1,0 +1,18 @@
+{
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai-Thiago.tmTheme",
+	"font_face": "Source Code Pro",
+	"font_size": 12,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"scroll_past_end": true,
+	"show_full_path": true,
+	// If true, the copy and cut commands will operate on the current line
+    // when the selection is empty, rather than doing nothing.
+    "copy_with_empty_selection": false,
+    "find_selected_text": true
+}
