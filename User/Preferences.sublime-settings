@@ -1,6 +1,6 @@
 {
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai-Thiago.tmTheme",
+	"color_scheme": "Packages/User/Themes/Monokai-Thiago.tmTheme",
 	"font_face": "Source Code Pro",
 	"font_size": 12,
 	"highlight_modified_tabs": true,
